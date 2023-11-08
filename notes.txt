@@ -1,0 +1,6 @@
+python file extension is .py 
+
+to run python program we can run , 
+        python filename.py 
+
+        
